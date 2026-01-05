@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hot Deals – CarVibes772</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="TikTok">
+    <span>CarVibes772</span>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <h1>🔥 Hot Deals</h1>
+    <p>Viral car stuff people are buying</p>
+  </section>
+
+  <section class="card">
+    <h2>🚗 Viral Interior Upgrade</h2>
+    <p>Clean look & easy install — TikTok favorite.</p>
+    <a class="btn" href="https://s.click.aliexpress.com/e/_c4DGBhGR" target="_blank">Check Deal</a>
+  </section>
+
+  <section class="card">
+    <h2>✨ Exterior Glow Mod</h2>
+    <p>Looks insane at night — great for edits.</p>
+    <a class="btn" href="https://s.click.aliexpress.com/e/_c4DGBhGR" target="_blank">View Offer</a>
+  </section>
+
+  <section class="card">
+    <h2>🛠 Must-Have Car Gadget</h2>
+    <p>Useful & affordable — daily driver essential.</p>
+    <a class="btn" href="https://s.click.aliexpress.com/e/_c4DGBhGR" target="_blank">See Price</a>
+  </section>
+
+  <section class="card">
+    <a href="index.html" class="btn back">← Back</a>
+  </section>
+</main>
+
+<footer>
+  © 2026 CarVibes772
+</footer>
+
+</body>
+</html>
